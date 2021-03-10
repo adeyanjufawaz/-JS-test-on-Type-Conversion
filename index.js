@@ -1,6 +1,7 @@
-var Name = 'fawaz';
-    console.log(Name.toUpperCase());
+var name_ = 'fawaz';
+    console.log(name_.toUpperCase());
     
-    var Name =  (Name[0].toUpperCase()) + 'awa' + (Name[4].toUpperCase());
-    console.log(Name);
+    var name_ =  (name_[0].toUpperCase()) + 'awa' + (name_[4].toUpperCase());
+    console.log(name_);
     
+   
